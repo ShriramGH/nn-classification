@@ -21,8 +21,6 @@ You are required to help the manager to predict the right group of the new custo
 
 ## DESIGN STEPS
 
-## DESIGN STEPS
-
 ### STEP 1:
 Import the necessary packages & modules
 ### STEP 2:
